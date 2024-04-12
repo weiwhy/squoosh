@@ -30,7 +30,7 @@ const Index: FunctionalComponent<Props> = () => (
       <title>Squoosh</title>
       <meta
         name="description"
-        content="Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser."
+        content="Squoosh 是一款终极图像优化工具，可让你在浏览器中使用不同的编解码器对图像进行压缩和比较。"
       />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content="@SquooshApp" />
@@ -46,11 +46,11 @@ const Index: FunctionalComponent<Props> = () => (
       <meta property="og:image:height" content="500" />
       <meta
         property="og:image:alt"
-        content="A cartoon of a hand squeezing an image file on a dark background."
+        content="深色背景上一只手在挤压图像文件的卡通形象."
       />
       <meta
         name="og:description"
-        content="Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser."
+        content="Squoosh 是一款终极图像优化工具，可让你在浏览器中使用不同的编解码器对图像进行压缩和比较。"
       />
       <meta
         name="viewport"
